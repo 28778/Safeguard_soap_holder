@@ -1,5 +1,5 @@
 # Safeguard_soap_holder
-### A Suave Soap Holder Model, SOLIDWORKS, 3D Printable (Can be used for other brands as well).
+### A Soap Holder Model, SOLIDWORKS, 3D Printable.
 
 ### 🏫宿舍宝物！一个舒肤佳肥皂支架模型（不是舒肤佳也可以用）
 
