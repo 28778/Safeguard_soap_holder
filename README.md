@@ -41,6 +41,8 @@ Remember to add 3D printing supports because the model has overhangs.
 2.没有更多特别注意的。
 No further special instructions are needed.
 ```
+### 模型快照 Snapshoot
+<img width="797" alt="3441a15f1013ff539735a357638817d" src="https://github.com/28778/Safeguard_soap_holder/assets/31039562/c5408c0b-9ccb-408e-b1cd-7dc751c6c30b">
 
 ### 这是使用半年后的效果，嘎嘎稳！！！
 That's great to hear! It seems like the model has held up well after six months. Keep enjoying its usefulness! 😄👍
