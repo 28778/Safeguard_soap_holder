@@ -31,4 +31,6 @@
 
 2.没有更多特别注意的。
 ```
+
+###这是使用半年后的效果，嘎嘎稳！！！
 ![832e000986ce29e17ece6da50ac8d40](https://github.com/28778/Safeguard_soap_holder/assets/31039562/f219550a-3f42-48f9-883c-5563b72d6a68)
